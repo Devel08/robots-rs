@@ -6,3 +6,9 @@ W - move up<br>
 A - move left<br>
 S - move down<br>
 D - move right<br>
+T - teleport<br>
+
+**To compile:**<br>
+```
+cargo run
+```
