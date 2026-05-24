@@ -1,5 +1,5 @@
 # robots-rs
-A quick Rust rewrite of the [bsdgames](https://github.com/vattam/BSDGames) robots-rs
+A quick Rust rewrite of the [bsdgames](https://github.com/vattam/BSDGames) robots
 
 Controls are:<br>
 W - move up<br>
